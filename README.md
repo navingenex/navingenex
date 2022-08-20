@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @navingenex
+- 👋 Hi, I’m Navin Kumar
 - 👀 I’m interested in Web Development. I Have 5 years of experience in frontend technologies like JavaScript, Angular, ReactJS, NextJS, HTML, CSS, Bootstrap, MUI.
 - 🌱 I’m currently learning GraphQL
-- 📫 How to reach me via navingenex@gmail.com
+- 📫 You can reach me via navingenex@gmail.com
 
 <!---
 navingenex/navingenex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
