@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Navin Kumar
-- 👀 I’m interested in Web Development. I Have 5 years of experience in frontend technologies like JavaScript, Angular, ReactJS, NextJS, HTML, CSS, Bootstrap, MUI.
-- 🌱 I’m currently learning GraphQL
+- 👀 I’m interested in Web Development. I Have 6.5 years of experience in frontend technologies like JavaScript, TypeScript, Node, Angular, ReactJS, NextJS, HTML, CSS, GraphQL, MongoDB Bootstrap, MUI.
+- 🌱 I’m currently learning .NET
 - 📫 You can reach me via navingenex@gmail.com
 
 <!---
